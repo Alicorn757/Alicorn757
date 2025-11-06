@@ -51,18 +51,10 @@
 
 <p align="center">
   <!-- GitHub Readme Stats -->
-  <img alt="Alicorn757 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alicorn757&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true" width="100%"/>
+  <img alt="Alicorn757 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alicorn757&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true" width="75%"/>
 
   <!-- Top Languages -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicorn757&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <!-- Streak / Activity -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alicorn757&theme=tokyonight&hide_border=true" />
-
-  <!-- Total Contributions Graph -->
-  <img alt="Contributions" src="https://ghchart.rshah.org/Alicorn757" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicorn757&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" width="75%"/>
 </p>
 
 ---
