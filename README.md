@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSf0KUx7mL67JKSf4FfTQCXkIiLgtsNFZ99w" alt="Banner" width="100%" />
+  <img src="https://image.fonwall.ru/o/ig/abstract-sky-clouds.jpeg?auto=compress&fit=resize&h=282&w=500&display=thumb&domain=img3.fonwall.ru" alt="Banner" width="100%" />
 </h1>
 
 <h1 align="center">Привет 👋, я <b>Alicorn757</b></h1>
